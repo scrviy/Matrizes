@@ -1,0 +1,15 @@
+/home/scrviy/dev/dotnet/Matrizes/bin/Debug/net7.0/Matrizes
+/home/scrviy/dev/dotnet/Matrizes/bin/Debug/net7.0/Matrizes.deps.json
+/home/scrviy/dev/dotnet/Matrizes/bin/Debug/net7.0/Matrizes.runtimeconfig.json
+/home/scrviy/dev/dotnet/Matrizes/bin/Debug/net7.0/Matrizes.dll
+/home/scrviy/dev/dotnet/Matrizes/bin/Debug/net7.0/Matrizes.pdb
+/home/scrviy/dev/dotnet/Matrizes/obj/Debug/net7.0/Matrizes.csproj.AssemblyReference.cache
+/home/scrviy/dev/dotnet/Matrizes/obj/Debug/net7.0/Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+/home/scrviy/dev/dotnet/Matrizes/obj/Debug/net7.0/Matrizes.AssemblyInfoInputs.cache
+/home/scrviy/dev/dotnet/Matrizes/obj/Debug/net7.0/Matrizes.AssemblyInfo.cs
+/home/scrviy/dev/dotnet/Matrizes/obj/Debug/net7.0/Matrizes.csproj.CoreCompileInputs.cache
+/home/scrviy/dev/dotnet/Matrizes/obj/Debug/net7.0/Matrizes.dll
+/home/scrviy/dev/dotnet/Matrizes/obj/Debug/net7.0/refint/Matrizes.dll
+/home/scrviy/dev/dotnet/Matrizes/obj/Debug/net7.0/Matrizes.pdb
+/home/scrviy/dev/dotnet/Matrizes/obj/Debug/net7.0/Matrizes.genruntimeconfig.cache
+/home/scrviy/dev/dotnet/Matrizes/obj/Debug/net7.0/ref/Matrizes.dll

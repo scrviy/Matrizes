@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mJKLHHnrlplfKu5biAq8cAg7XyNbKrVCg/zWs5IRu1ANtAJFkx2SD/lMrrDVKQxXw0ce4mHnAZRs8KVwvZAc9w==",
+  "success": true,
+  "projectFilePath": "/home/scrviy/dev/dotnet/Matrizes/Matrizes.csproj",
+  "expectedPackageFiles": [
+    "/home/scrviy/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.1/microsoft.aspnetcore.app.ref.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
